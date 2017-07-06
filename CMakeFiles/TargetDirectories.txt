@@ -1,3 +1,0 @@
-/home/riz/hello/CMakeFiles/rebuild_cache.dir
-/home/riz/hello/CMakeFiles/edit_cache.dir
-/home/riz/hello/CMakeFiles/hello.dir
