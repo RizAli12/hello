@@ -2,7 +2,9 @@
 
 Clone project and cd to project directory. then type
 
-cmake <path to source> Enter
+cmake <path to source> 
+
+Enter
 
 after configuration and generation done type
 
