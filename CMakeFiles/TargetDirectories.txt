@@ -1,3 +1,0 @@
-/home/riz/echo-servers.c/CMakeFiles/rebuild_cache.dir
-/home/riz/echo-servers.c/CMakeFiles/edit_cache.dir
-/home/riz/echo-servers.c/CMakeFiles/echo-server.c.dir
