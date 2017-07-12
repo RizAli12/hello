@@ -1,12 +1,11 @@
 # echo-servers.c
 
-A collection of various echo servers in c.
-Mostly for my own amusement and education
+Clone project and cd to project directory. then type
 
-To compile them clone this repo and do
+cmake <path to source> Enter
 
-```
-make
+after configuration and generation done type
+
 ./bin/tcp-echo-server 8000
 ```
 
