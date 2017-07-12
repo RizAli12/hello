@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/riz/echo-servers.c")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/riz/echo-servers.c/build")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/riz/echo-servers.c")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

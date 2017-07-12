@@ -1,3 +1,3 @@
-/home/riz/hello/build/CMakeFiles/rebuild_cache.dir
-/home/riz/hello/build/CMakeFiles/edit_cache.dir
-/home/riz/hello/build/CMakeFiles/hello.dir
+/home/riz/echo-servers.c/build/CMakeFiles/rebuild_cache.dir
+/home/riz/echo-servers.c/build/CMakeFiles/edit_cache.dir
+/home/riz/echo-servers.c/build/CMakeFiles/echo-server.c.dir

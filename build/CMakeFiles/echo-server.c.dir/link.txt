@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/echo-server.c.dir/tcp-echo-server.c.o  -o echo-server.c -rdynamic 
